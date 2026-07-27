@@ -1,3 +1,0 @@
-This is a document with Hello World!
-
-I would like to add some changes to this file!
